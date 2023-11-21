@@ -43,7 +43,7 @@ body{
 }
 
 .referencia {
-    background-color: "darkred";
+    background-color: darkred;
     font-family: var(--main-font);
     color:var(--color-almost-black) ;
 }

@@ -41,3 +41,9 @@ body{
     font-family: var(--main-font);
     color:var(--color-almost-black) ;
 }
+
+.referencia {
+    background-color: "darkred";
+    font-family: var(--main-font);
+    color:var(--color-almost-black) ;
+}
